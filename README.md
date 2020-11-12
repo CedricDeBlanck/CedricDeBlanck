@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/CedricDeBlanck/CedricDeBlanck/7e6f28f451bd9cf3431dd3db0c5ec8d6c979283a/star.svg" width="15px"> Over mij!
 Mijn naam Cédric De Blanck, Ik ben 20 jaar en volg Graduaat Programmeren op Artevelde Hogeschool in Gent
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CedricDeBlanck)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CedricDeBlanck&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CedricDeBlanck/CedricDeBlanck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
