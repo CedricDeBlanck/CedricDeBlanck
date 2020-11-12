@@ -1,6 +1,6 @@
 [![Header](https://github.com/CedricDeBlanck/CedricDeBlanck/blob/main/Middel%202-100.jpg?raw=true "Header")](http://www.cedricdeblanck.be/)
 
-## <img src="https://raw.githubusercontent.com/CedricDeBlanck/CedricDeBlanck/22478a74677759b65e660fd891123654dc605166/user.svg"> Over mij!
+## <img src="https://raw.githubusercontent.com/CedricDeBlanck/CedricDeBlanck/22478a74677759b65e660fd891123654dc605166/user.svg" width="30px" color="#2bbc8a"> Over mij!
 Mijn naam Cédric De Blanck, Ik ben 20 jaar en volg Graduaat Programmeren op Artevelde Hogeschool in Gent
 
 
