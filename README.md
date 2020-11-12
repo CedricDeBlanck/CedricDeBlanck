@@ -6,12 +6,17 @@ Mijn naam Cédric De Blanck, Ik ben 20 jaar en volg Graduaat Programmeren op Art
 
 
 ## 🔧 Technologies & Tools
+
+<img src="https://raw.githubusercontent.com/CedricDeBlanck/CedricDeBlanck/7e6f28f451bd9cf3431dd3db0c5ec8d6c979283a/star.svg" width="15px"> Editors
 ![](https://img.shields.io/badge/Editor-Visual%20studio%20code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Eclipse%20IDE-informational?style=flat&logo=eclipse-ide&logoColor=white&color=2bbc8a)
+
+<img src="https://raw.githubusercontent.com/CedricDeBlanck/CedricDeBlanck/7e6f28f451bd9cf3431dd3db0c5ec8d6c979283a/star.svg" width="15px"> Code Langauges
 ![](https://img.shields.io/badge/Code-html-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-graphql-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Eclipse%20IDE-informational?style=flat&logo=eclipse-ide&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
