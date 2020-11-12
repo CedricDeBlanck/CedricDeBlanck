@@ -1,5 +1,7 @@
 [![Header](https://github.com/CedricDeBlanck/CedricDeBlanck/blob/main/Middel%202-100.jpg?raw=true "Header")](http://www.cedricdeblanck.be/)
 
+
+[![Image](https://raw.githubusercontent.com/CedricDeBlanck/CedricDeBlanck/7e6f28f451bd9cf3431dd3db0c5ec8d6c979283a/star.svg)] Hello!
 <!--
 **CedricDeBlanck/CedricDeBlanck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
