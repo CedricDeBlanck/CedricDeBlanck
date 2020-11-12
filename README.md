@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/CedricDeBlanck/<OWNER>/<OWNER>/readme_header.png "Header")](http://www.cedricdeblanck.be/)
 
 <!--
 **CedricDeBlanck/CedricDeBlanck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
