@@ -6,7 +6,7 @@ Mijn naam Cédric De Blanck, Ik ben 20 jaar en volg Graduaat Programmeren op Art
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-visual-studio-code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual%20studio%20code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-html-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
