@@ -4,19 +4,18 @@
 <img src="https://raw.githubusercontent.com/CedricDeBlanck/CedricDeBlanck/7e6f28f451bd9cf3431dd3db0c5ec8d6c979283a/star.svg" width="15px"> Over mij!
 Mijn naam Cédric De Blanck, Ik ben 20 jaar en volg Graduaat Programmeren op Artevelde Hogeschool in Gent
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CedricDeBlanck&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CedricDeBlanck&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CedricDeBlanck&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
-<!--
-**CedricDeBlanck/CedricDeBlanck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CedricDeBlanck&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CedricDeBlanck&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
