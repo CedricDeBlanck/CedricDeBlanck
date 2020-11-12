@@ -6,27 +6,16 @@ Mijn naam Cédric De Blanck, Ik ben 20 jaar en volg Graduaat Programmeren op Art
 
 
 ## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Editor-visual-studio-code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-html-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-graphql-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Eclipse%20IDE-informational?style=flat&logo=eclipse-ide&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/CedricDeBlanck/CedricDeBlanck">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CedricDeBlanck&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-<a href="https://github.com/CedricDeBlanck/CedricDeBlanck">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CedricDeBlanck&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<!--
-<a href="https://github.com/CedricDeBlanck/CedricDeBlanck">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CedricDeBlanck&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<!--
-<a href="https://github.com/CedricDeBlanck/CedricDeBlanck">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CedricDeBlanck&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CedricDeBlanck&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />  
 
 
