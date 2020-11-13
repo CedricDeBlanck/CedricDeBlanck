@@ -29,4 +29,7 @@ Mijn naam Cédric De Blanck, Ik ben 20 jaar en ik volg Graduaat Programmeren aan
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgmgent-1920-students&repo=eindwerk-CedricDeBlanck&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/pgmgent-1920-students/case1-pgm-website-CedricDeBlanck">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgmgent-1920-students&repo=case1-pgm-website-CedricDeBlanck&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
