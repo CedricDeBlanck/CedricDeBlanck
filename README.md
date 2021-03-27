@@ -17,6 +17,8 @@ Mijn naam Cédric De Blanck, Ik ben 20 jaar en ik volg Graduaat Programmeren aan
 ![](https://img.shields.io/badge/Code-graphql-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-vue-informational?style=flat&logo=vue&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/CedricDeBlanck/CedricDeBlanck">
